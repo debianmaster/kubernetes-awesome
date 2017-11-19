@@ -8,3 +8,5 @@ https://medium.com/google-cloud/quality-of-service-class-qos-in-kubernetes-bb76a
 ### Certificate based Auth setup
 https://docs.bitnami.com/kubernetes/how-to/configure-rbac-in-your-kubernetes-cluster/
 
+### k8s RBAC
+https://www.youtube.com/watch?v=WvnXemaYQ50&t=145s
