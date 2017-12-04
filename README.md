@@ -10,3 +10,6 @@ https://docs.bitnami.com/kubernetes/how-to/configure-rbac-in-your-kubernetes-clu
 
 ### k8s RBAC
 https://www.youtube.com/watch?v=WvnXemaYQ50&t=145s
+
+### prometheus & grafana
+https://blog.lwolf.org/post/going-open-source-in-monitoring-part-iii-10-most-useful-grafana-dashboards-to-monitor-kubernetes-and-services/
