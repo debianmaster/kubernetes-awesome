@@ -13,3 +13,6 @@ https://www.youtube.com/watch?v=WvnXemaYQ50&t=145s
 
 ### prometheus & grafana
 https://blog.lwolf.org/post/going-open-source-in-monitoring-part-iii-10-most-useful-grafana-dashboards-to-monitor-kubernetes-and-services/
+
+### Authors
+https://edenmal.net/
